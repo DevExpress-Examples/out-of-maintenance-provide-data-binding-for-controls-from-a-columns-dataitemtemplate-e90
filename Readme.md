@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/WebSite/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/WebSite/Default.aspx.vb))
 <!-- default file list end -->
 # Provide data binding for controls from a column's DataItemTemplate
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/e90/)**
+<!-- run online end -->
 
 
 <p>This example demonstrates how to bind controls residing in a column's <strong>DataItemTemplate</strong> to data.<br />
